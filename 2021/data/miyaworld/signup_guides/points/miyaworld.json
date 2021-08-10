@@ -1,0 +1,19 @@
+{
+    "type": "point",
+    "title": "天空之城",
+    "description": "直到一个巨大的机器人从天上掉了下来，人们终于相信了那古老的有关拉普达的传说。",
+    "selector": "@a",
+    "location": {
+        "actual": [
+            423,
+            252,
+            790
+        ]
+    },
+    "triggers": [
+        "teacon:triggers/teleport"
+    ],
+    "images": [
+        "miyaworld:textures/item/pilot_stone_necklace.png"
+    ]
+}
